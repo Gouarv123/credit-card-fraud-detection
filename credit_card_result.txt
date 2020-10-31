@@ -1,0 +1,8 @@
+Random Forest Regressor
+    error = 816
+    %age error = 1.4325339700150979
+    
+
+Isolation Forest
+    error = 1766
+    %age error = 3.100312489027773
